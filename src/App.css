@@ -1,0 +1,16 @@
+.clients img{
+  width: 100px;
+  height: 100px;
+}
+.navbar{
+  z-index: 1000;
+}
+.line{
+  height: .1rem;
+  width: 4rem;
+}
+
+.countNumbers{
+  font-size: 34px;
+  font-weight: 600px;
+}
